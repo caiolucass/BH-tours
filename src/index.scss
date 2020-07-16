@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: "border-box";
+}
+
+/*Sass*/
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+$mainRed: #ff0000;
+$mainTransition: all 0.3 linear;
+
+/*corpo da pagina*/
+body {
+  font-family: "Open Sans", sans-serif;
+  background: $mainWhite;
+  color: $mainBlack;
+}
