@@ -23,8 +23,8 @@
 ### Pré-requisitos :warning:
 
 Para seguir o passo a passso abaixo, você vai precisa ter instalado em sua máquina essas dependências:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [React.js](https://create-react-app.dev/docs/getting-started/)
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [React.js](https://create-react-app.dev/docs/getting-started/).
+E um bom editor como o [VSCode](https://code.visualstudio.com/)
 
 ## Clone este repositório
 $ git clone <https://github.com/caiolucass/BhTours.git>
