@@ -20,22 +20,28 @@
 - [React Router](https://reactrouter.com/)
 - [React DOM](https://pt-br.reactjs.org/docs/react-dom.html)
 
-# Clone este repositório
+### Pré-requisitos :warning:
+
+Para seguir o passo a passso abaixo, você vai precisa ter instalado em sua máquina essas dependências:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [React.js](https://create-react-app.dev/docs/getting-started/)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+## Clone este repositório
 $ git clone <https://github.com/caiolucass/BhTours.git>
 
-# Acesse a pasta do projeto no terminal/cmd
+## Acesse a pasta do projeto no terminal/cmd
 $ cd bh-tours
 
-# Instale as dependências
+## Instale as dependências
 $ npm install
 
-# Execute a aplicação
+## Execute a aplicação
 $ npm start
 
-# Execute a aplicação em modo de desenvolvimento
+## Execute a aplicação em modo de desenvolvimento
 $ npm test
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
+## O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
 
 
 
