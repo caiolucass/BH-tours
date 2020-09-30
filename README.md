@@ -4,3 +4,6 @@
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
 <p align="center">Framework utilizado para a criação deste projeto</p>
+
+<img src="https://img.shields.io/static/v1?label=Blog&message=BeloHorizonte&color=7159c1&style=for-the-badge&logo=ghost"/>
+
