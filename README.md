@@ -5,7 +5,7 @@
 </h1>
 <p align="center">Framework utilizado para a criação deste projeto</p>
 
-<img src="https://img.shields.io/github/issues/caiolucass/BhTours"/> <img src="https://img.shields.io/github/forks/caiolucass/BhTours"/> <img src="https://img.shields.io/github/stars/caiolucass/BhTours"/> <img src="	https://img.shields.io/github/license/caiolucass/BhTours"/>
+<img src="https://img.shields.io/github/issues/caiolucass/BhTours"/> <img src="https://img.shields.io/github/forks/caiolucass/BhTours"/> <img src="https://img.shields.io/github/stars/caiolucass/BhTours"/> <img src="	https:/apm/l/:packageName/>
 
 <h4 align="center"> 
 	✅  Status: Projeto concluído ✅ 
