@@ -20,6 +20,23 @@
 - [React Router](https://reactrouter.com/)
 - [React DOM](https://pt-br.reactjs.org/docs/react-dom.html)
 
+# Clone este repositório
+$ git clone <https://github.com/caiolucass/BhTours.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd bh-tours
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm start
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm test
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
+
 
 
 
