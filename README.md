@@ -11,10 +11,7 @@
 	✅  Status: Projeto concluído ✅ 
 </h4>
 
-<h4 align="center"> 
-	🚀  Deploy da aplicação com Vercel:🚀 
-</h4>
-> https://vercel.com/caiolucass/bh-tours
+> 🚀Deploy da aplicação com Versel:https://vercel.com/caiolucass/bh-tours 🚀 
 
 
 
