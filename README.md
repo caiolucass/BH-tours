@@ -7,6 +7,10 @@
 
 <img src="https://img.shields.io/github/issues/caiolucass/BhTours"/> <img src="https://img.shields.io/github/forks/caiolucass/BhTours"/> <img src="https://img.shields.io/github/stars/caiolucass/BhTours"/> <img src="	https://img.shields.io/github/license/caiolucass/BhTours"/>
 
+<h4 align="center"> 
+	✅  Status: Projeto concluído ✅ 
+</h4>
+
 
 
 
