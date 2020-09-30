@@ -13,6 +13,14 @@
 
 > 🚀 Deploy da aplicação no Vercel: https://vercel.com/caiolucass/bh-tours 🚀 
 
+## Linguagens e libs utilizadas :books:
+
+- [React](https://pt-br.reactjs.org/)
+- [SASS](https://sass-lang.com/)
+- [React Router](https://reactrouter.com/)
+- [React DOM](https://pt-br.reactjs.org/docs/react-dom.html)
+
+
 
 
 
