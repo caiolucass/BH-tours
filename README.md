@@ -12,7 +12,7 @@
 </h4>
 
 ## Sobre
-<p align="center">O projeto se baseia em um site com os pontos turísticos da minha cidade. Afim de apresentar um pouco da nossa cultura e arte.</p>
+<p align="center">O projeto se baseia em um site com os pontos turísticos da minha cidade, afim de apresentar um pouco da nossa cultura e arte.</p>
 
 > 🚀 Deploy da aplicação no Vercel: https://vercel.com/caiolucass/bh-tours 🚀 
 
